@@ -33,4 +33,4 @@ chmod +x uninstall.sh
 ```
 
 ## 👨‍💻 Auteur
-**Thomas Pezé**
+**PEZÉ Thomas**
