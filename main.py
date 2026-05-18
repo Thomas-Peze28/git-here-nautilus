@@ -10,7 +10,7 @@ class CloneRepoExtension(GObject.GObject, Nautilus.MenuProvider):
     def __init__(self):
         super().__init__()
 
-    def clone_action(self, path):
+    def clone_action(self, menu, path):
         local_path = unquote(path.replace("file://", ""))
         
         try:
