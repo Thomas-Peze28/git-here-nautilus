@@ -10,7 +10,7 @@ Ce projet est conçu pour les environnements basés sur **GNOME** (Ubuntu, Debia
 Une installation automatisée est disponible grâce au script `install.sh`. 
 
 ```bash
-git clone [https://github.com/Thomas-Peze28/git-here-nautilus.git](https://github.com/Thomas-Peze28/git-here-nautilus.git)
+git clone https://github.com/Thomas-Peze28/git-here-nautilus.git
 cd git-here-nautilus
 chmod +x install.sh
 ./install.sh
